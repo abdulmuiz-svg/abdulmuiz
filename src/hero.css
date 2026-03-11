@@ -1,0 +1,175 @@
+body{
+    
+
+  background-size: cover;   /* makes image cover the whole card */
+
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+
+
+}
+.hero-wrapper{
+    padding: 30px 110px;
+}
+.navbar{
+    background: ghostwhite;
+    border-radius: 40px;
+    padding: 20px 40px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+}
+.service-section{
+    display: flex;
+    gap: 30px;
+    padding: 80px 60px;
+    background: #f4f7f6;
+
+}
+.service-highlights{
+    
+    
+    
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background:green ;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.road{
+    display: flex;
+
+    flex-direction: column;
+    background:white;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: 0.3s;
+    padding-top: 40px;
+}
+.road:hover{
+    background: gray;
+    transform: 0.9s;
+}
+.redd{
+     display: flex;
+    
+    flex-direction: column;
+    background: white;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    padding-top: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.service-card{
+     display: flex;
+
+    flex-direction: column;
+    background:white;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    padding-top: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.service-highlights h4{
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    opacity: 0.8;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.logo h2{
+    font-size: 20px;
+    color: #333;
+}
+.logo p{
+    font-size: 12px;
+    color: #777;
+}
+.nav-links{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    text-align: center;
+    margin-right: 20px;
+
+
+}
+.go{
+    background: grey;
+    height: 48px;
+    border-radius: 35px;
+    width: 150px;
+    margin-top: 40px;
+
+}
+.hero{
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 150px;
+    
+  
+ 
+}
+.me{
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-image: url('/Download premium png of PNG Laptop computer portrait sitting_ by Busbus about curly.jpeg');
+}
+.hero1{
+    font-size: 40px;
+    font-weight: 700;
+    
+    justify-content: right;
+    text-align: right;
+    padding-right: 20px;
+
+    background:url('/African Lady On Turtleneck Dress Holding A Tab.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 300px;
+}
+.heo2{
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 20px;
+    text-align: right;
+}
+
+
+.nav-links a{
+    text-decoration: none;
+    color: #555;
+    font-weight: 700;
+    transition: 0.5s;
+    justify-content: center;
+}
+.nav-links a:hover{
+    color: red;
+}
+
+.name{
+    margin-left: 120px;
+    background: green;
+    height: 50px;
+    border-radius: 25px;
+    width: 200px;
+}
+.roar{
+    font-size: 20px;
+    font-weight: 100;
+    
+}
